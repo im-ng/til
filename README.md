@@ -7,12 +7,14 @@ A bookmark of things I learned over the period of my leisure time in a day. This
 ###Leafs
 
 + [Mac-Linux](#Mac-Linux)
++ [Linux](#Linux)
++ [JavaScript](#js)
 
 
 
 ####Mac/Linux
 
-* [Use of PubKeyAuth](PubKeyAuthentication.md)
+* [Use of PubKeyAuth](Mac-Linux/PubKeyAuthentication.md)
 
 
 
