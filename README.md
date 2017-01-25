@@ -11,14 +11,10 @@ A bookmark of things I learned over the period of my leisure time in a day. This
 + [JavaScript](#js)
 
 
-
 ####Mac/Linux
 
 * [Use of PubKeyAuth](Mac-Linux/PubKeyAuthentication.md)
-
-
-
-
+* [Retrive Fingerprint](Mac-Linux/Fingerprint.md)
 
 
 ###Inspiration
@@ -27,4 +23,4 @@ A bookmark of things I learned over the period of my leisure time in a day. This
 
 ### License
 
-This repo comes under MIT License. Take a look at 'LICENSE' file.
+MIT License.
